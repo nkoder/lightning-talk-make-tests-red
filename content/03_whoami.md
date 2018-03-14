@@ -1,5 +1,9 @@
-# Paweł Barszcz
+# Make Tests Red
 
-### [@nkoder](https://twitter.com/nkoder)
+lightning talk @ WarsawJS, 2018-03-14
 
-### [Frontend Developer @ Contractbook](https://www.contractbook.co/)
+## Paweł Barszcz
+
+### twitter.com/[nkoder](https://twitter.com/nkoder)
+
+### Frontend Developer @ [Contractbook](https://www.contractbook.co/)
