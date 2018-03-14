@@ -1,3 +1,4 @@
+import "jest-enzyme"
 import React from "react"
 import {mount} from "enzyme";
 
@@ -32,7 +33,9 @@ describe("<ConnectionStatus>", () => {
 // =================
 // expect(status.find("Hello WarsawJS")).toBeTruthy();
 // expect(status.find(".offlineMessage")).toHaveLength(1);
+// expect(status.find(".offlineMessage")).toExist();
 // expect(status.find("Hello WarsawJS")).toHaveLength(1);
+// expect(status.find("Hello WarsawJS")).toExist();
 //
 //
 //
